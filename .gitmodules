@@ -1,0 +1,9 @@
+[submodule "zabbix-scripts"]
+	path = zabbix-scripts
+	url = git@github.com:lordievader/zabbix-scripts.git
+[submodule "zabbix-agent-config"]
+	path = zabbix-agent-config
+	url = git@github.com:lordievader/zabbix-agent-config.git
+[submodule "zabbix-templates"]
+	path = zabbix-templates
+	url = git@github.com:lordievader/zabbix-templates.git
