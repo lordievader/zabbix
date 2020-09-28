@@ -7,3 +7,6 @@
 [submodule "zabbix-templates"]
 	path = zabbix-templates
 	url = git@github.com:lordievader/zabbix-templates.git
+[submodule "zbxtoolkit"]
+	path = zbxtoolkit
+	url = git@github.com:lordievader/zbxtoolkit.git
